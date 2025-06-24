@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @heyusman
-- 👀 I’m interested in Web3 & AI
-- 👨‍💻 I’m always looking to collaborate on exciting new projects.
-- 📫 Reach me on heyusman[at]gmail.com or on Discord: maniac#9877
+- 👨‍💻 I like building things
+- 👀 Currently super interested in AI developments (of course!) and DeFi
 
 <!---
 heyusman/heyusman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
