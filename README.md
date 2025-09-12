@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heyusman
 - 👨‍💻 I like building things
-- 👀 Currently super interested in AI developments (of course!) and DeFi
+- 👀 Currently working on ml/ai projects
 
 <!---
 heyusman/heyusman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
