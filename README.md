@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heyusman
 - 👨‍💻 I like building things
-- 👀 Currently working on ml/ai projects at https://atalchemy.com
+- 👀 Currently working on ml/ai projects at Alchemy (https://atalchemy.com)
 
 <!---
 heyusman/heyusman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
