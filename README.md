@@ -1,5 +1,4 @@
-- 👋 Hey, I’m Usman
-- 👨‍💻 I like building things
+- 👨‍💻 I like building meaningful things
 - 👀 Currently working on ml/ai projects at Alchemy (https://atalchemy.com)
 - 🐶 Download Retriever (https://atalchemy.com/retriever) from the App Store to easily record, auto-organize and speak to your own voice notes, journals and ideas.
 
